@@ -1,10 +1,8 @@
 /* Place your CSS styles in this file */
-
-body {background-color: mistyrose;}
-body {border:5px solid lightblue;}
-body {border-radius:15px;}
-
+body {background-color: midnightblue;}
+body {border: 5px white;}
+body {border-radius: 15px;}
 h1 {
-    text-align: left;
-    font-family: "Georgia", sans-serif;
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
     font-weight: normal;
