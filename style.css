@@ -230,7 +230,7 @@ height: auto;
 }
 
 
-.FUN FACT-title {
+.fun-fact-title {
     font-size: 2.5em; 
     font-weight: bold;
     margin-bottom: 25px;
@@ -248,7 +248,7 @@ height: auto;
     color: #ccd6f6; 
 }
 
-.FUN FACT-container {
+.fun-fact-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); 
     gap: 25px; 
@@ -258,7 +258,7 @@ height: auto;
     margin-bottom: 30px;
 }
 
-.FUN FACT-card {
+.fun-fact-card {
     background-color: #161b22; 
     border: 1px solid #30363d; 
     border-radius: 10px; 
@@ -270,13 +270,13 @@ height: auto;
     position: relative; 
 }
 
-.FUN FACT-card:hover {
+.fun-fact-card:hover {
     transform: translateY(-8px) scale(1.02); 
     box-shadow: 0 8px 30px rgba(139, 233, 253, 0.4); 
     background-color: #1f2a36; 
 }
 
-.FUN FACT-card h3 {
+.fun-fact-card h3 {
     color: #50fa7b; 
     margin-top: 0;
     margin-bottom: 10px;
@@ -284,14 +284,14 @@ height: auto;
     text-shadow: 0 0 8px rgba(80, 250, 123, 0.3); 
 }
 
-.FUN FACT-card p {
+.fun-fact-card p {
     font-size: 0.95em;
     color: #e6edf3; 
     margin-bottom: 0;
     line-height: 1.6; 
 }
 
-.FUN FACT-card p strong {
+.fun-fact-card p strong {
     color: #ff79c6; 
 }
 
